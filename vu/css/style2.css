@@ -1,0 +1,144 @@
+﻿
+
+.templete{width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
+
+.headersection{
+	background-image: url('images/logo.png') !important no-repeat;
+	border: 1px solid gray;
+	color:#fff;
+}
+.logo{width:960px;
+}
+.logo img{
+	float:left;
+	margin-right: 170px;
+	padding-bottom: 10px;
+	padding-left:20px;
+	padding-top:10px;
+	height: 140px;
+	width:280px;
+}
+.logo h2 {
+	font-size: 50px;
+	margin-bottom: -59px;
+	margin-top: 32px;
+	color: black;
+}
+.logo p{
+	font-size:17px;
+	margin-right:5px;
+}
+
+.navsection{background:#008000;}
+.navsection ul{margin:0;padding:0;list-style:none;}
+.navsection ul li{display:block;float:left;}
+.navsection ul li a{
+	color:#FFFFFF;
+	border-right:1px solid #FF0000;
+	display:block;text-align:
+	center;text-decoration:
+	none;
+	padding:14px 16px;
+}
+.navsection ul li a:hover {background-color:black;}
+
+.slidersection{
+	box-shadow:0 8px 10px -2px #555;
+	margin-bottom: 12px;
+}
+
+.contentsection{background:#FFFFFF;}
+.maincontent{
+	background:#fef4e5;
+	border: 1px solid #b7901c;
+	float:left;
+	margin: 0 15px 15px 0;
+	padding: 8px 20px;
+	width:628px;
+}
+.about{
+	color: #000;
+	background:#fef4e5;
+	border: 1px solid #b7901c;
+	float:left;
+	margin: 0 15px 15px 0;
+	padding: 8px 20px;
+	width:915px;
+}
+.about img{}
+.about p{}
+
+.sampost{}
+.sampost h2,.about h2{
+	color: #000;
+	border-bottom:2px solid #555555;
+	font-size:24px;
+	margin-bottom:10px;
+	padding:10px;
+}
+.sampost img{
+	background:#fff;
+	border:1px solid #9b999a;
+	float:left;
+	margin-right:10px;
+	padding:5px;
+}
+.sampost p{
+	color:#272127;
+	font-size:16px;
+	line-height:23px;
+	text-align:justify;
+}
+
+.readmore{
+	float:right;
+	margin-top:10px;
+}
+.readmore a{
+	background:#fff;
+	border:1px sloid #9b999a;
+	border-radius: 3px;
+	color:#333;
+	display: block;
+	font-size: 17px;
+	padding: 4px 8px;
+	text-decoration:none;
+}
+.readmore a:hover{
+	color:#E16525;
+}
+
+.sidebar{
+	width:253px;
+	Background:#fef4e5;
+	float:right;
+	margin-bottom:15px;
+	padding:10px;
+	margin-top:0;
+	border: 1px solid #b7801c;
+}
+.samesidebar{}
+.samesidebar h2{
+	background:#9b999a;
+	border-bottom:2px solid #555555;
+	color:#fff;
+	margin-bottom:8px;
+	padding:10px;
+}
+.samesidebar p{
+	color:#000;
+	margin-bottom:10px;
+	text-align:justify;
+}
+
+.footersection{height:90px;background:#2F2D2E;}
+.footersection p{
+	color:#FF0000;
+	font-size:30px;
+	font-weight:bold;
+	padding-top:30px;
+	text-align:center;
+}
+
+
